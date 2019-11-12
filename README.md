@@ -6,7 +6,7 @@ Also note that I chose to ignore the update in rules to allow the use of the ext
 My features included checking the directions of the position vectors, and distance measurement.
 
 Some of the notebooks I was influenced by:
-https://www.kaggle.com/marcelotamashiro/lgb-public-kernels-plus-more-features
-https://www.kaggle.com/criskiev/distance-is-all-you-need-lb-1-481
-https://www.kaggle.com/mykolazotko/3d-visualization-of-molecules-with-plotly (This kernel is particularly important to the methods I think will be conducive to solving this)
+(1). https://www.kaggle.com/marcelotamashiro/lgb-public-kernels-plus-more-features
+(2). https://www.kaggle.com/criskiev/distance-is-all-you-need-lb-1-481
+(3). https://www.kaggle.com/mykolazotko/3d-visualization-of-molecules-with-plotly (This kernel is particularly important to the methods I think will be conducive to solving this)
 
